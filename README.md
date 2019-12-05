@@ -14,3 +14,5 @@ A Java API
 - to access consolidated numerical information which are stored in a Database
 - which provides financial KPIs for a selected company
 - Automatic Download of the latest XBRL files and import them into a SQL database
+
+Here are some examples implemented with a BeakerX Jupyter Notebooks
